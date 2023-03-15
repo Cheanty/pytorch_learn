@@ -1,2 +1,2 @@
-# pytorch_learn
-about pytornch and mechine learning
+# my_software
+include chinese chess and maze
